@@ -8,4 +8,6 @@ def main(n):
     Returns:
         float: the value of the expression
     """
-    return
+    n = 3 * (n + 1) ** 2
+    return n
+print(main(3.5))
