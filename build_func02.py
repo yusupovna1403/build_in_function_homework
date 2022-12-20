@@ -8,6 +8,6 @@ def main():
     Returns:
         float: the value of the expression
     """
-    num = -2.55
+    num = (3 * ((7 / 5) - (9 / 4)))
     return num
 print(main())
